@@ -19,3 +19,13 @@ and Customer behavior, using AdventureWorksDW.
 - Revenue Growth YoY
 - Retention Rate & Churn Rate
 - RFM
+
+## SQL USING
+- AGGREGATE
+- CTE
+- Window Function
+- LAG
+- JOIN
+- SUBQUERY
+- RMF ANALYSIS
+- ...
